@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Parth Vasave</h1>
+<h3 align="center">I break things. Then fix them better 🚀</h3>
 
-<!--
-**omgwtfnotnow/omgwtfnotnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omgwtfnotnow&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I'm a Computer Science student with a passion for building tools and experiences that look good *and* work great.
+
+🎯 Interests:  
+- 🧠 AI & Automation  
+- ✈️ Flight Simulators & Aviation  
+- 💻 Full Stack Development  
+
+🧰 Tech Stack:
+```js
+{
+  "languages": ["Python", "JavaScript", "C++", "Kotlin"],
+  "frontend": ["React", "Next.js", "Tailwind", "Chakra UI"],
+  "backend": ["Node.js", "Firebase", "Express", "MySQL"],
+  "tools": ["Git", "VSCode", "Linux", "Figma"],
+  "other": ["WebRTC", "Socket.IO", "Three.js", "Phaser"]
+}
