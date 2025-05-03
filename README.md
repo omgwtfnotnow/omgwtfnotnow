@@ -4,15 +4,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Aviation%20Enthusiast;Loves%20building%20cool%20UIs;Always%20learning%20new%20things!&center=true&width=500&height=45&font=Fira%20Code&pause=1000&color=F77F00&vCenter=true&size=22" alt="Typing SVG">
 </p>
-
-<!-- Add the GIF here -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFsbWJueDB3OXZva2I4NW00ZDA4djhxa2ZsdjE0OHhtNmE1OGV2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLbdgn0S36my2VfInK/giphy.gif" width="450" />
+<p align="left">
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG13bHZxOTIzc2d0Y25sZ3BremEyZmRvbHppNjg1YzBqd2xlNjl5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkJ7okLnPBTy0/giphy.gif" width="450" />
 </p>
 
 ### 🎓 Hi, I'm Parth!
 
-I'm a Computer Science student currently in the final year of my degree, diving deep into both **front-end** and **back-end development**.  
+I'm a Computer Science student currently in final year of my degree, diving deep into both **front-end** and **back-end development**.  
 I've gained hands-on experience in various technologies, and I'm always eager to explore new tech stacks and sharpen my skills.
 
 💡 I’m passionate about **learning**, **building fun projects**, and creating things that are **both useful and a little bit quirky**.
