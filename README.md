@@ -1,6 +1,6 @@
 <!-- Top GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="200%" height="1" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmg5eWp1cmluM2Z4cDdjeTdiazNvMmUxdHFnenNpOHJhaDBjdGxzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1BgQOc1Jj7L86BA4/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Parth Vasave</h1>
@@ -47,5 +47,5 @@ I've gained hands-on experience in various technologies, and I'm always eager to
 
 <!-- Bottom GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" height="3" />
 </p>
