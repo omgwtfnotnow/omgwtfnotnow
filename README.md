@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Aviation%20Enthusiast;Loves%20building%20cool%20UIs;Always%20learning%20new%20things!&center=true&width=500&height=45&font=Fira%20Code&pause=1000&color=F77F00&vCenter=true&size=22" alt="Typing SVG">
 </p>
 <p align="left">
-  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmg5eWp1cmluM2Z4cDdjeTdiazNvMmUxdHFnenNpOHJhaDBjdGxzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1BgQOc1Jj7L86BA4/giphy.gif"  width="50%" height="80%" />
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgzdW9jZ2E2NWg0MDVvYW4yYTE2dDY2aHdqa2QyeHE3ZmU3cDVseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLi3T5m3RH45y/giphy.gif"  width="50%" height="80%" />
 </p>
 
 ### 🎓 Hi, I'm Parth!
