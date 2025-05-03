@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Aviation%20Enthusiast;Loves%20building%20cool%20UIs;Always%20learning%20new%20things!&center=true&width=500&height=45&font=Fira%20Code&pause=1000&color=F77F00&vCenter=true&size=22" alt="Typing SVG">
 </p>
 <p align="left">
-  <img align="right" src="https://media2.giphy.com/media/26xBFY0CIpA4ImXFm/giphy.gif" width="450" />
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG13bHZxOTIzc2d0Y25sZ3BremEyZmRvbHppNjg1YzBqd2xlNjl5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkJ7okLnPBTy0/giphy.gif" width="450" />
 </p>
 
 ### 🎓 Hi, I'm Parth!
