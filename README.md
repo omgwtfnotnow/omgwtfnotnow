@@ -16,7 +16,7 @@ I'm a Computer Science student currently halfway through my degree, diving deep 
 
 </td>
     <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRlYThrODR2Z2p3bnd6YWdxZGUzYTcwaWlxNzRuNHdvbTV6ejMwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBFY0CIpA4ImXFm/giphy.gif" width="350"/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRlYThrODR2Z2p3bnd6YWdxZGUzYTcwaWlxNzRuNHdvbTV6ejMwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBFY0CIpA4ImXFm/giphy.gif" width="450"/>
     </td>
   </tr>
 </table>
