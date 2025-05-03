@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Aviation%20Enthusiast;Loves%20building%20cool%20UIs;Always%20learning%20new%20things!&center=true&width=500&height=45&font=Fira%20Code&pause=1000&color=F77F00&vCenter=true&size=22" alt="Typing SVG">
 </p>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRlYThrODR2Z2p3bnd6YWdxZGUzYTcwaWlxNzRuNHdvbTV6ejMwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBFY0CIpA4ImXFm/giphy.gif" width="600" alt="cool animated coder gif" />
+</p>
 ---
 
 ### 🛠️ Languages & Tools
