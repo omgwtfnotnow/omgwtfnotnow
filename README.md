@@ -10,8 +10,8 @@
 
 ### 🎓 Hi, I'm Parth!
 
-I'm a Computer Science student currently halfway through my degree, diving deep into both **front-end** and **back-end development**.  
-I've gained hands-on experience building web solutions for the **restaurant industry**, and I'm always eager to explore new tech stacks and sharpen my skills.
+I'm a Computer Science student currently in final year of my degree, diving deep into both **front-end** and **back-end development**.  
+I've gained hands-on experience in various technologies, and I'm always eager to explore new tech stacks and sharpen my skills.
 
 💡 I’m passionate about **learning**, **building fun projects**, and creating things that are **both useful and a little bit quirky**.
 ---
