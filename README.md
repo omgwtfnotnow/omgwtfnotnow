@@ -23,3 +23,8 @@
   "tools": ["Git", "VSCode", "Linux", "Figma"],
   "other": ["WebRTC", "Socket.IO", "Three.js", "Phaser"]
 }
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=omgwtfnotnow&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=omgwtfnotnow&theme=radical" />
+</p>
