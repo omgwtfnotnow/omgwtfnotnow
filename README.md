@@ -1,6 +1,6 @@
 <!-- Top GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="200%" height="50" />
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="200%" height="1" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Parth Vasave</h1>
