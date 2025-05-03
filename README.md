@@ -1,3 +1,8 @@
+<!-- Top GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Parth Vasave</h1>
 <h3 align="center">🚀 Building stuff with code | 🛠️ Learning every day</h3>
 
