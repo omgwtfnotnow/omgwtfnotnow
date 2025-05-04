@@ -13,7 +13,6 @@
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgzdW9jZ2E2NWg0MDVvYW4yYTE2dDY2aHdqa2QyeHE3ZmU3cDVseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLi3T5m3RH45y/giphy.gif"  width="50%" height="80%" />
 </p>
 
-### 🎓 Hi, I'm Parth!
 
 I'm a Computer Science student currently in final year of my degree, diving deep into both **front-end** and **back-end development**.  
 I've gained hands-on experience in various technologies, and I'm always eager to explore new tech stacks and sharpen my skills.
