@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="200%" height="3" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Parth Vasave</h1>
+<h1 align="center">Hi 👋, I'm Parth </h1>
 <h3 align="center">🚀 Building stuff with code | 🛠️ Learning every day</h3>
 
 <p align="center">
